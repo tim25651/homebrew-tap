@@ -7,6 +7,6 @@ cask "pokerstars-eu" do
   desc "PokerStars ist die Heimat der spannendsten Pokerspiele"
   homepage "https://www.pokerstars.eu/"
 
-  app "PokerStarsEU.app"
+  app "PokerStarsEU/PokerStarsEU.app"
   #app "Alfred 2.app/Contents/Preferences/Alfred Preferences.app"
 end

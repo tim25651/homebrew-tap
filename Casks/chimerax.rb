@@ -1,5 +1,5 @@
 cask "chimerax" do
-  version "1.5"
+  version "1.7.1"
   #sha256 "a3738d0513d736918a6d71535ef3d85dd184af267c05698e49ac4c6b48f38e17"
 
   url "file:///Users/tim/OneDownloads/ChimeraX-#{version}.dmg"
